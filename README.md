@@ -1,4 +1,8 @@
 # Fake News Detection
 
 
-<img width="1025" alt="image" src="https://github.com/user-attachments/assets/9a25ebe0-68c3-4200-a593-7e0e2cbebcb1" />
+![image](https://github.com/user-attachments/assets/38b820ac-c23f-434e-b996-cc84059062e0)
+
+![image](https://github.com/user-attachments/assets/9e337dee-5c83-473c-96b6-b7ca81aefec3)
+
+
